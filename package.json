@@ -1,0 +1,15 @@
+{
+  "name": "api-connect",
+  "version": "1.0.0",
+  "description": "MVP da API Connect",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
